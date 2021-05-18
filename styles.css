@@ -27,6 +27,10 @@ h2 {
    text-align: center;
 }
 
+.title-of-abt{
+    font-family: "Ubuntu", sans-serif;
+}
+
 h3 {
   font-size: 2rem;
   line-height: 3rem;
