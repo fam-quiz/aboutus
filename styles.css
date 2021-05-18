@@ -24,10 +24,10 @@ h2 {
 }
 
 p{
-  font-size: 1rem;
+font-size: 2rem;
 .center-text{
-   text-align: center;
-      font-family: "Ubuntu", sans-serif;
+ text-align: center;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .title-of-abt{
